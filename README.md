@@ -1,4 +1,7 @@
 # Makeup-website
+
+Link to access it: https://mehwishsameer.github.io/Makeup-website/
+
 1. Introduction:
 
 This is a makeup website where you can see various products related to eyes, hairs, lips and face. You can place orders for them by using the add to cart functionality. This website allows you to add comments, sign up and all the basal services that a website provides.
