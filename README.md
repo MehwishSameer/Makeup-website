@@ -20,7 +20,7 @@ This project consists of various pages and subpages that are:
 - Contact Us
 - Privacy Policy
 
-The Categories page provide the cart functionality. It uses JavaScript action listeners, query selectors and local storage to provide cart service. Each product type eyes, lips, hairs and face contain various products with the add to cart button. By clicking this button, the record is added to your cart that you can see on the cart page. Next, we have a signup page that offers you a form for signing up. Then we have a contact us page that allows the user to get the details and add a message. Lastly, we have a privacy policy page that includes the documentation for the privacy of the website.
+The Categories page provide the cart functionality. It uses JavaScript event listeners, query selectors and local storage to provide cart service. Each product type eyes, lips, hairs and face contain various products with the add to cart button. By clicking this button, the record is added to your cart that you can see on the cart page. Next, we have a signup page that offers you a form for signing up. Then we have a contact us page that allows the user to get the details and add a message. Lastly, we have a privacy policy page that includes the documentation for the privacy of the website.
 
 4.Hardware/Software Requirements:
 - Sublime Text
