@@ -61,7 +61,7 @@ li{
 	border:2px black;
 	size:300px;
     padding: 40px;
-    margin-left: -330px;
+    margin-left: 0px;
 }
 .addcart,.addcart1,.addcart2,.addcart3{
 	background-color: #ff80b3;
