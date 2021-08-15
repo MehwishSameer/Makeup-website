@@ -25,3 +25,6 @@ The Categories page provide the cart functionality. It uses JavaScript event lis
 
 4.Hardware/Software Requirements:
 - Sublime Text
+
+
+Go to this link to access the project: https://mehwishsameer.github.io/Makeup-website/
